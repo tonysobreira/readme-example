@@ -10,15 +10,19 @@ DS Vendas é uma aplicação full stack web construída durante a 3ª edição d
 A aplicação consiste em mostrar a eficiência de vendedores e depois são listados na aplicação web, que também apresenta um dashboard com gráficos e uma tabela baseados nestes dados.
 
 ## Layout mobile
-<img src="https://github.com/tonysobreira/assets/blob/main/sds3/mob1.png" width="50%" height="50%">
-<img src="https://github.com/tonysobreira/assets/blob/main/sds3/mob2.png" width="50%" height="50%">
-<img src="https://github.com/tonysobreira/assets/blob/main/sds3/mob3.png" width="50%" height="50%">
-<img src="https://github.com/tonysobreira/assets/blob/main/sds3/mob4.png" width="50%" height="50%">
+<div>
+<img src="https://github.com/tonysobreira/assets/blob/main/sds3/mob1.png" width="20%" height="20%">
+<img src="https://github.com/tonysobreira/assets/blob/main/sds3/mob2.png" width="20%" height="20%">
+<img src="https://github.com/tonysobreira/assets/blob/main/sds3/mob3.png" width="20%" height="20%">
+<img src="https://github.com/tonysobreira/assets/blob/main/sds3/mob4.png" width="20%" height="20%">
+</div>
 
 ## Layout web
+<div>
 <img src="https://github.com/tonysobreira/assets/blob/main/sds3/web1.png" width="50%" height="50%">
 <img src="https://github.com/tonysobreira/assets/blob/main/sds3/web2.png" width="50%" height="50%">
 <img src="https://github.com/tonysobreira/assets/blob/main/sds3/web3.png" width="50%" height="50%">
+</div>
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/tonysobreira/assets/blob/main/sds3/sds3-mc.png)
@@ -27,6 +31,7 @@ A aplicação consiste em mostrar a eficiência de vendedores e depois são list
 ## Back end
 - Java
 - Spring Boot
+- Spring Security
 - JPA / Hibernate
 - Maven
 - H2
